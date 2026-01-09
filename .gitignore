@@ -1,0 +1,12 @@
+# First write all of the files which we have to hide or not to push on repo
+
+db.sql
+passwords.txt 
+
+# This means simply ignore all the log files
+*.log  
+
+node_modules/
+
+# I want to ignore all the log files except the one like eg important.log
+!important.log
