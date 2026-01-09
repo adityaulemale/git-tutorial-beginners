@@ -10,3 +10,5 @@ node_modules/
 
 # I want to ignore all the log files except the one like eg important.log
 !important.log
+
+about.html
