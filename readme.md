@@ -1,4 +1,4 @@
-# The best github repo out there
+# The best GitHub repo out there
 This is read me
 The best ways are:
 - Eat
